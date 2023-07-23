@@ -1,0 +1,15 @@
+.headermain {
+  text-align: center;
+  color: goldenrod;
+}
+
+.App {
+  background-color: grey;
+  text-align: center;
+  background-image: url(./Assets/mysterious\ galaxies.png);
+}
+
+
+.TaskForm {
+  background-color: aqua;
+}
